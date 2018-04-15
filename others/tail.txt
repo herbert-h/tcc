@@ -1,0 +1,1000 @@
+[[Category:2004 births]]
+[[Category:Actor]]
+[[Category:Singer]]
+[[Category:Male]]</text>
+      <sha1>h8ahwj0vlou22ukxdkelea44wba1kaa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pampered to a Pulp</title>
+    <ns>0</ns>
+    <id>56188272</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117191</id>
+      <timestamp>2018-01-01T18:01:53Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pilot Grove, Minnesota</title>
+    <ns>0</ns>
+    <id>56188273</id>
+    <revision>
+      <id>818123904</id>
+      <parentid>818117365</parentid>
+      <timestamp>2018-01-01T18:57:52Z</timestamp>
+      <contributor>
+        <username>TheCatalyst31</username>
+        <id>4850051</id>
+      </contributor>
+      <comment>infobox</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Infobox settlement
+|official_name = Pilot Grove, Minnesota
+|settlement_type = [[Unincorporated area|Unincorporated community]] 
+|nickname = 
+|motto =
+
+&lt;!-- Images --&gt;
+|image_skyline = 
+|imagesize = 
+|image_caption = 
+|image_flag = 
+|image_seal =
+
+&lt;!-- Maps --&gt;
+|image_map = 
+|mapsize = 
+|map_caption = 
+|image_map1 = 
+|mapsize1 = 
+|map_caption1 = 
+|pushpin_map=Minnesota#USA
+|pushpin_label_position = top
+
+&lt;!-- Location --&gt;
+|subdivision_type = [[List of countries|Country]]
+|subdivision_name = [[United States]]
+|subdivision_type1 = [[Political divisions of the United States|State]]
+|subdivision_name1 = [[Minnesota]]
+|subdivision_type2 = [[List of counties in Minnesota|County]]
+|subdivision_name2 = [[Faribault County, Minnesota|Faribault]]
+
+&lt;!-- Government --&gt;
+|government_footnotes = 
+|government_type = 
+|leader_title = 
+|leader_name = 
+|leader_title1 = 
+|leader_name1 = 
+|established_title = 
+|established_date =
+
+&lt;!-- Area --&gt;
+|unit_pref  =  
+|area_footnotes = 
+|area_magnitude = 
+|area_total_km2 = 
+|area_land_km2 = 
+|area_water_km2 = 
+|area_total_sq_mi = 
+|area_land_sq_mi = 
+|area_water_sq_mi =
+
+&lt;!-- Population --&gt;
+|population_as_of = 
+|population_footnotes = 
+|population_total = 
+|population_density_km2 = 
+|population_density_sq_mi =
+
+&lt;!-- General information --&gt;
+|timezone = [[Central Time Zone|Central (CST)]]
+|utc_offset = -6
+|timezone_DST = CDT
+|utc_offset_DST = -5
+|elevation_footnotes = 
+|elevation_m = 
+|elevation_ft = 1125
+|coordinates = {{coord|43|31|45|N|94|13|40|W|type:city_region:US-MN_source:GNIS-enwiki|display=inline,title}}
+
+&lt;!-- Area/postal codes &amp; others --&gt;
+|postal_code_type =
+|postal_code = 
+|area_code = [[Area code 507|507]]
+|blank_name = [[Geographic Names Information System|GNIS]] feature ID
+|blank_info = 649435&lt;ref name=&quot;gnis&quot;/&gt;
+|blank1_name =
+|blank1_info = 
+|website = 
+|footnotes = 
+}}
+'''Pilot Grove''' is an [[unincorporated community]] in [[Pilot Grove Township, Faribault County, Minnesota|Pilot Grove Township]], [[Faribault County, Minnesota|Faribault County]], [[Minnesota]], [[United States]].&lt;ref name=&quot;gnis&quot;&gt;{{cite gnis|649435|Pilot Grove, Minnesota}}&lt;/ref&gt;&lt;ref&gt;[http://www.dot.state.mn.us/maps/gdma/data/maps/county/faribault.pdf Minnesota Department of Transportation-Faribault County, Minnesota]&lt;/ref&gt;
+
+==Notes==
+{{reflist}}
+{{Faribault County, Minnesota|state=collapsed}}
+
+[[Category:Unincorporated communities in Faribault County, Minnesota]]
+[[Category:Unincorporated communities in Minnesota]]
+
+{{FaribaultCountyMN-geo-stub}}</text>
+      <sha1>4ntyxszv7izckgcbd78v9ccwy9c2irz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Diamer Division</title>
+    <ns>1</ns>
+    <id>56188274</id>
+    <revision>
+      <id>818117208</id>
+      <timestamp>2018-01-01T18:02:02Z</timestamp>
+      <contributor>
+        <username>Uanfala</username>
+        <id>11049176</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Created page with '{{WP Pakistan}}'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{WP Pakistan}}</text>
+      <sha1>rw64gw5wymzpah6cbmgmnnmltym1lu6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Someday My Prince Will Come (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188275</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117214</id>
+      <timestamp>2018-01-01T18:02:05Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:110.152.133.230</title>
+    <ns>3</ns>
+    <id>56188276</id>
+    <revision>
+      <id>818117230</id>
+      <timestamp>2018-01-01T18:02:14Z</timestamp>
+      <contributor>
+        <username>Zocke1r</username>
+        <id>31810924</id>
+      </contributor>
+      <comment>General note: Editing tests on [[WTEM]]. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">== January 2018 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Zocke1r|Zocke1r]]. An edit that you recently made to [[:WTEM]] seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think a mistake was made, or if you have any questions, you can leave me a message on [[User_talk:Zocke1r|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt; [[User:Zocke1r|Zocke1r]] ([[User talk:Zocke1r|talk]]) 18:02, 1 January 2018 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself or [[Special:UserLogin|logging in with an existing account]] so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;</text>
+      <sha1>mt3gzmcxsrjxt0hdra7jykzf56p9td9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Articles for deletion/Matt Hart (basketball)</title>
+    <ns>4</ns>
+    <id>56188277</id>
+    <revision>
+      <id>818187815</id>
+      <parentid>818121438</parentid>
+      <timestamp>2018-01-02T03:19:25Z</timestamp>
+      <contributor>
+        <username>Johnpacklambert</username>
+        <id>2308770</id>
+      </contributor>
+      <comment>/* Matt Hart (basketball) */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">===[[:Matt Hart (basketball)]]===
+{{REMOVE THIS TEMPLATE WHEN CLOSING THIS AfD|B}}
+
+:{{la|Matt Hart (basketball)}} – (&lt;includeonly&gt;[[Wikipedia:Articles for deletion/Matt Hart (basketball)|View AfD]]&lt;/includeonly&gt;&lt;noinclude&gt;[[Wikipedia:Articles for deletion/Log/2018 January 1#{{anchorencode:Matt Hart (basketball)}}|View log]]&lt;/noinclude&gt;{{int:dot-separator}} &lt;span class=&quot;plainlinks&quot;&gt;[https://tools.wmflabs.org/jackbot/snottywong/cgi-bin/votecounter.cgi?page=Wikipedia:Articles_for_deletion/Matt_Hart_(basketball) Stats]&lt;/span&gt;)
+:({{Find sources AFD|Matt Hart (basketball)}})
+Appears to fail [[WP:GNG]] with only some [[WP:ROUTINE]] coverage and [[WP:GEOSCOPE|local]] mentions. Also [[WP:TOOSOON]] for [[WP:NHOOPS]] as he is currently with a fairly low level league and is in his first pro year, would likely get more coverage in one of the European leagues. It seems his most significant depth of coverage article is [http://buffalonews.com/2014/06/10/ex-canisius-high-hoops-star-hart-transfers-to-gw/ this one from ''The Buffalo News''], however, he was only covered in that paper because he was once a high school athlete there and seems to fail the intent of [[WP:NHSPHSATH]] (local coverage of a high school player/former player and signings/transfers/trades are also commonly considered routine). [[User:Yosemiter|Yosemiter]] ([[User talk:Yosemiter|talk]]) 18:01, 1 January 2018 (UTC)
+:&lt;small class=&quot;delsort-notice&quot;&gt;Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Sportspeople|list of Sportspeople-related deletion discussions]]. [[User:Everymorning|Everymorning]] [[User talk:Everymorning|(talk)]] 18:35, 1 January 2018 (UTC)&lt;/small&gt;
+:&lt;small class=&quot;delsort-notice&quot;&gt;Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/Basketball|list of Basketball-related deletion discussions]]. [[User:Everymorning|Everymorning]] [[User talk:Everymorning|(talk)]] 18:36, 1 January 2018 (UTC)&lt;/small&gt;
+:&lt;small class=&quot;delsort-notice&quot;&gt;Note:  This debate has been included in the [[Wikipedia:WikiProject Deletion sorting/United States of America|list of United States of America-related deletion discussions]]. [[User:Everymorning|Everymorning]] [[User talk:Everymorning|(talk)]] 18:36, 1 January 2018 (UTC)&lt;/small&gt;
+*'''Delete''' does not meet the inclusion criteria for basketball players.[[User:Johnpacklambert|John Pack Lambert]] ([[User talk:Johnpacklambert|talk]]) 03:19, 2 January 2018 (UTC)</text>
+      <sha1>gm447iskl9beoq1qokiky8caf3l356f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Honor Thy Mother (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188278</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117244</id>
+      <timestamp>2018-01-01T18:02:20Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Deafblind people from Canada</title>
+    <ns>14</ns>
+    <id>56188279</id>
+    <revision>
+      <id>818157968</id>
+      <parentid>818117254</parentid>
+      <timestamp>2018-01-01T23:09:05Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>new key for [[Category:Deafblind people by country]]: &quot;Can&quot; using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Canadian people with disabilities]]
+[[Category:Deaf people from Canada]]
+[[Category:Blind people from Canada]]
+[[Category:Deafblind people by country|Can]]</text>
+      <sha1>0pin1k2xb28nifuyabnq9xgq83ajc49</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>What a Day for a Daydream</title>
+    <ns>0</ns>
+    <id>56188281</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117266</id>
+      <timestamp>2018-01-01T18:02:32Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Millions from Heaven</title>
+    <ns>0</ns>
+    <id>56188282</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117284</id>
+      <timestamp>2018-01-01T18:02:42Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:The Groom</title>
+    <ns>1</ns>
+    <id>56188283</id>
+    <revision>
+      <id>818117287</id>
+      <timestamp>2018-01-01T18:02:44Z</timestamp>
+      <contributor>
+        <username>Fortdj33</username>
+        <id>9056972</id>
+      </contributor>
+      <comment>Added to wikiproject using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{WikiProject Film}}</text>
+      <sha1>aozj859wbmpq85ke53lxeexe6kqjyjz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Call Waiting (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188284</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117318</id>
+      <timestamp>2018-01-01T18:02:58Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:188.221.204.213</title>
+    <ns>3</ns>
+    <id>56188285</id>
+    <revision>
+      <id>818117319</id>
+      <timestamp>2018-01-01T18:03:00Z</timestamp>
+      <contributor>
+        <ip>188.221.204.213</ip>
+      </contributor>
+      <comment>[[WP:AES|←]]Created page with 'hey there'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">hey there</text>
+      <sha1>ciezx4gxav3v4sieua2fmlqumsengl2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fights and Stuff</title>
+    <ns>0</ns>
+    <id>56188286</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117337</id>
+      <timestamp>2018-01-01T18:03:08Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:66.87.125.188</title>
+    <ns>3</ns>
+    <id>56188287</id>
+    <revision>
+      <id>818117362</id>
+      <timestamp>2018-01-01T18:03:18Z</timestamp>
+      <contributor>
+        <username>Zocke1r</username>
+        <id>31810924</id>
+      </contributor>
+      <comment>General note: Editing tests on [[Canadian English]]. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">== January 2018 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Zocke1r|Zocke1r]]. An edit that you recently made to [[:Canadian English]] seemed to be a test and has been removed. If you want more practice editing, please use the [[Wikipedia:Sandbox|sandbox]]. If you think a mistake was made, or if you have any questions, you can leave me a message on [[User_talk:Zocke1r|my talk page]]. Thanks!&lt;!-- Template:uw-test1 --&gt; [[User:Zocke1r|Zocke1r]] ([[User talk:Zocke1r|talk]]) 18:03, 1 January 2018 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself or [[Special:UserLogin|logging in with an existing account]] so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;</text>
+      <sha1>pq5loogrc7td3l30btubk9b9x7ahdck</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Health ministers of Catalonia</title>
+    <ns>14</ns>
+    <id>56188288</id>
+    <revision>
+      <id>818117363</id>
+      <timestamp>2018-01-01T18:03:18Z</timestamp>
+      <contributor>
+        <username>Obi2canibe</username>
+        <id>7902442</id>
+      </contributor>
+      <comment>new cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Health ministers of Spanish autonomous communities|Catalonia]]
+[[Category:Ministers of the Generalitat de Catalunya]]</text>
+      <sha1>jjg8o3d13m4jo8vf16iufx6lj59ayy1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heart &amp; Soul (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188289</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117364</id>
+      <timestamp>2018-01-01T18:03:19Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heart and Soul (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188290</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117385</id>
+      <timestamp>2018-01-01T18:03:32Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:NinjaRobotPirate/Archive2017-2</title>
+    <ns>3</ns>
+    <id>56188291</id>
+    <revision>
+      <id>818117391</id>
+      <timestamp>2018-01-01T18:03:37Z</timestamp>
+      <contributor>
+        <username>Seso101</username>
+        <id>29220155</id>
+      </contributor>
+      <comment>Scott Glenn (actor) ethnicity</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">Hi Ninja, I got a message from you re my edit to the actor Scott Glenn, regarding his ethnicity.  The site ethniccelebs confirms he has at least some Scottish ancestry: http://ethnicelebs.com/scott-glenn, hope this counts.  He is one of many Americans of Scottish descent (often with clearly Scottish names) who get listed as Irish-American (often with no mention of Scotland) which, as a Scotsman myself, is a wee bit annoying!  Anyway, that's all, Happy New Year to you! Mark M.</text>
+      <sha1>s8qo6x9vbpxrdvdtihiq4kczluv71qt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:List of programs broadcast by Bang Bang</title>
+    <ns>1</ns>
+    <id>56188292</id>
+    <revision>
+      <id>818117399</id>
+      <timestamp>2018-01-01T18:03:40Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Notification of altered sources needing review #IABot (v1.6.1)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified 4 external links on [[List of programs broadcast by Bang Bang]]. Please take a moment to review [[special:diff/818117396|my edit]]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20160814141601/http://www.tv.al/s/xheku-dhe-piratet-e-ishullit/22650 to http://www.tv.al/s/xheku-dhe-piratet-e-ishullit/22650
+*Added archive https://web.archive.org/web/20161105124125/http://tv.al/s/maksi-dhe-rubi/29079 to http://tv.al/s/maksi-dhe-rubi/29079
+*Added archive https://web.archive.org/web/20161105124124/http://www.tv.al/s/oktonautet/29198 to http://www.tv.al/s/oktonautet/29198
+*Added archive https://web.archive.org/web/20161105124116/http://www.tv.al/s/planeti-shin/11562 to http://www.tv.al/s/planeti-shin/11562
+
+When you have finished reviewing my changes, you may follow the instructions on the template below to fix any issues with the URLs.
+
+{{sourcecheck|checked=false|needhelp=}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 18:03, 1 January 2018 (UTC)</text>
+      <sha1>p62unku0nf744y56rte1numm81tfhgh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ballroom Blitz (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188293</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117415</id>
+      <timestamp>2018-01-01T18:03:54Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia talk:Articles for deletion/Nonce (slang)</title>
+    <ns>5</ns>
+    <id>56188294</id>
+    <revision>
+      <id>818134922</id>
+      <parentid>818122292</parentid>
+      <timestamp>2018-01-01T20:22:58Z</timestamp>
+      <contributor>
+        <username>Anomalocaris</username>
+        <id>299039</id>
+      </contributor>
+      <minor />
+      <comment>rm self-closed &lt;blockquote /&gt;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">== Articles about words ==
+
+[[User:Sjö|Sjö]] and [[User:Sandstein|Sandstein]], it appears that the article was deleted simply because it was an article about a word? Per [[WP:WORDISSUBJECT]], we have articles are about words. Articles like [[W00t]], [[Cunt]], [[Cisgender]], and [[Bling-bling]] are solely about the use, meaning and etymology of the word. WP:WORDISSUBJECT states that &quot;such articles must go beyond what would be found in a dictionary entry (definition, pronunciation, etymology, use information, etc.), and include information on the social or historical significance of the term.&quot; The aforementioned articles go beyond a simple dictionary definition. Did the Nonce article? I can't remember. [[User:Flyer22 Reborn|Flyer22 Reborn]] ([[User talk:Flyer22 Reborn|talk]]) 18:04, 1 January 2018 (UTC)
+
+:Here's the copypasted content. Please delete after reading because of attribution and such. &lt;small&gt;&lt;span style=&quot;border:1px solid black;padding:1px;&quot;&gt;[[User:Sandstein|&lt;span style=&quot;color:white;background:blue;font-family:sans-serif;&quot;&gt;''' Sandstein '''&lt;/span&gt;]]&lt;/span&gt;&lt;/small&gt; 18:43, 1 January 2018 (UTC)
+
+&lt;blockquote&gt;
+In the United Kingdom, nonce is a slang word for a pariah within a community of prisoners, typically a sex offender, child sexual abuser or one who has turned state's evidence. It has also become widely used in the general population for people with an interest in young girls.
+
+Usage in English prisons
+Nonce first came into widespread use in UK prisons, where it is primarily used by prisoners to refer to convicted sex offenders, especially abusers of children. &quot;Nonces&quot; are traditionally targets of physical abuse from their fellow prison inmates, and so usually go on to Rule 45 (formerly Rule 43),[1] the rule that enables the segregation of vulnerable prisoners from the other prisoners for their own safety. The Rule 45 section of British prisons in which sex offenders are segregated (also known as going on 'The Numbers' or, in rhyming slang, 'The Cucumbers') is often referred to as the &quot;nonce wing&quot;. In context, nonce could be used thusly: &quot;That man is an absolute nonce.&quot;[2][3]
+
+Etymology
+The Oxford English Dictionary, while describing the word's etymology as &quot;Origin unknown&quot;, states that it is &quot;perhaps related to&quot; nance and cites a quotation which claims the word was derived from nancy-boy (a derogatory term referring to effeminate or homosexual males). It also suggests that it may derive from the nonse, Lincolnshire dialect for &quot;good-for-nothing fellow&quot;.[4]
+
+Linguist Jonathon Green suggests the word derives from nonsense. He quotes a reference from 1970 citing &quot;nonces&quot; as being short for &quot;nonsenses&quot; and an additional citation from 1999.[2]&quot;</text>
+      <sha1>g4yhkhwrqp0w628x56yv49m8ofri2cd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Another Mouth to Shut Up</title>
+    <ns>0</ns>
+    <id>56188295</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117438</id>
+      <timestamp>2018-01-01T18:04:06Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Health ministers of Spanish autonomous communities</title>
+    <ns>14</ns>
+    <id>56188296</id>
+    <revision>
+      <id>818117459</id>
+      <timestamp>2018-01-01T18:04:15Z</timestamp>
+      <contributor>
+        <username>Obi2canibe</username>
+        <id>7902442</id>
+      </contributor>
+      <comment>new cat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">[[Category:Health ministers of Spain| ]]
+[[Category:Regional ministers of Spain]]</text>
+      <sha1>4tq2e7e3hbi9n9g7d9utijue0ll44a6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Morning Becomes Obnoxious</title>
+    <ns>0</ns>
+    <id>56188297</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117465</id>
+      <timestamp>2018-01-01T18:04:18Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:114.124.143.71</title>
+    <ns>3</ns>
+    <id>56188298</id>
+    <revision>
+      <id>818117823</id>
+      <parentid>818117487</parentid>
+      <timestamp>2018-01-01T18:07:11Z</timestamp>
+      <contributor>
+        <username>Simplexity22</username>
+        <id>26675139</id>
+      </contributor>
+      <comment>Caution: Unconstructive editing on [[Samuel (singer)]]. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">== January 2018 ==
+[[File:Information.svg|25px|alt=Information icon]] Hello, I'm [[User:Quickfingers|Quickfingers]]. I wanted to let you know that one or more of [[Special:Contributions/114.124.143.71|your recent contributions]]&amp;nbsp;to [[:Samuel (singer)]] have been undone because they did not appear constructive. If you would like to experiment, please use the [[WP:sandbox|sandbox]]. If you think a mistake was made, or if you have any questions, you can leave me a message on [[User_talk:Quickfingers|my talk page]]. Thanks.&lt;!-- Template:uw-vandalism1 --&gt; [[User:Quickfingers|Quickfingers]] ([[User talk:Quickfingers|talk]]) 18:04, 1 January 2018 (UTC)
+:''If this is a [[Network address translation|shared IP address]], and you did not make the edits, consider [[Wikipedia:Why create an account?|creating an account]] for yourself or [[Special:UserLogin|logging in with an existing account]] so you can avoid further irrelevant notices.''&lt;!-- Template:Shared IP advice --&gt;
+
+[[File:Information orange.svg|25px|alt=Information icon]] Please refrain from making unconstructive edits to Wikipedia, as you did at [[:Samuel (singer)]]. Your edits appear to constitute [[Wikipedia:Vandalism|vandalism]] and have been [[Help:Reverting|reverted]]. If you would like to experiment, please use the [[Wikipedia:Sandbox|sandbox]]. Repeated vandalism can result in the [[Wikipedia:Blocking policy|loss of editing privileges]]. Thank you.&lt;!-- Template:uw-vandalism2 --&gt; [[User:Simplexity22|Simplexity22]] ([[User talk:Simplexity22|talk]]) 18:07, 1 January 2018 (UTC)</text>
+      <sha1>eibuz5bx2bwd14ex2tndb07y5sqmldc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Springtime for David</title>
+    <ns>0</ns>
+    <id>56188299</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117498</id>
+      <timestamp>2018-01-01T18:04:29Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Pilot Grove, Minnesota</title>
+    <ns>1</ns>
+    <id>56188300</id>
+    <revision>
+      <id>818117506</id>
+      <timestamp>2018-01-01T18:04:33Z</timestamp>
+      <contributor>
+        <username>RFD</username>
+        <id>668422</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Created page with '{{WikiProject Minnesota|class=stub}}'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{WikiProject Minnesota|class=stub}}</text>
+      <sha1>4s53q0g2o2v4i5apkpfkox48io3y5ar</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User talk:138.207.192.52</title>
+    <ns>3</ns>
+    <id>56188301</id>
+    <revision>
+      <id>818117514</id>
+      <timestamp>2018-01-01T18:04:34Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <comment>Warning [[Special:Contributions/138.207.192.52|138.207.192.52]] - #1</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">
+
+== January 2018 ==
+[[File:Information.svg|left|25px|alt=]] Hello, and welcome to Wikipedia. This is a message letting you know that one or more of your recent edits to [[:Haley Joel Osment]] has been undone by an automated computer program called [[User:ClueBot NG|ClueBot NG]].
+{{clear}}
+* ClueBot NG makes very few [[User:ClueBot NG#Information About False Positives|mistakes]], but it does happen. If you believe the change you made was constructive, please [[User:ClueBot NG#Information About False Positives|read about it]], [{{User:ClueBot NG/Warnings/FPReport|3235019}} report it here], remove this message from your talk page, and then make the edit again.
+* For help, take a look at the [[Wikipedia:Introduction|introduction]].
+* The following is the log entry regarding this message: [[Haley Joel Osment]] was [https://en.wikipedia.org/w/index.php?title=Haley+Joel+Osment&amp;diff=818117475&amp;oldid=817777972 changed] by [[Special:Contributions/138.207.192.52|138.207.192.52]] [[User:138.207.192.52|(u)]] [[User talk:138.207.192.52|(t)]] ANN scored at 0.855712 on 2018-01-01T18:04:25+00:00 &lt;!-- MySQL ID: 3235019 --&gt;.
+Thank you. &lt;!-- Template:uw-cluebotwarning1 --&gt;&lt;!-- Template:uw-vandalism1 --&gt; [[User:ClueBot NG|ClueBot NG]] ([[User talk:ClueBot NG|talk]]) 18:04, 1 January 2018 (UTC)</text>
+      <sha1>fpmjteem25mkisvahxmcbdl5kax59eg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Disney World War II</title>
+    <ns>0</ns>
+    <id>56188302</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117525</id>
+      <timestamp>2018-01-01T18:04:41Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>We're Going to Disney World</title>
+    <ns>0</ns>
+    <id>56188303</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117545</id>
+      <timestamp>2018-01-01T18:04:52Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Construction Junction</title>
+    <ns>0</ns>
+    <id>56188304</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117563</id>
+      <timestamp>2018-01-01T18:05:01Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Faruk (actor)</title>
+    <ns>0</ns>
+    <id>56188305</id>
+    <redirect title="Farooque" />
+    <revision>
+      <id>818117569</id>
+      <timestamp>2018-01-01T18:05:03Z</timestamp>
+      <contributor>
+        <username>মাখামাখি</username>
+        <id>31267535</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Redirected page to [[Farooque]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Farooque]]</text>
+      <sha1>ri5457wqvqx1vxb0fbhitir1d619wny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Olga Kuznetsova (shooter)</title>
+    <ns>0</ns>
+    <id>56188306</id>
+    <redirect title="Olga Kuznetsova (sport shooter)" />
+    <revision>
+      <id>818117585</id>
+      <timestamp>2018-01-01T18:05:08Z</timestamp>
+      <contributor>
+        <username>Tassedethe</username>
+        <id>7098284</id>
+      </contributor>
+      <comment>Tassedethe moved page [[Olga Kuznetsova (shooter)]] to [[Olga Kuznetsova (sport shooter)]]: standard dab</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Olga Kuznetsova (sport shooter)]]
+
+{{R from move}}</text>
+      <sha1>mf1ukwvhbgfychf36e8b1rnzlw6vnol</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Olga Kuznetsova (shooter)</title>
+    <ns>1</ns>
+    <id>56188307</id>
+    <redirect title="Talk:Olga Kuznetsova (sport shooter)" />
+    <revision>
+      <id>818117589</id>
+      <timestamp>2018-01-01T18:05:10Z</timestamp>
+      <contributor>
+        <username>Tassedethe</username>
+        <id>7098284</id>
+      </contributor>
+      <comment>Tassedethe moved page [[Talk:Olga Kuznetsova (shooter)]] to [[Talk:Olga Kuznetsova (sport shooter)]]: standard dab</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Talk:Olga Kuznetsova (sport shooter)]]
+
+{{R from move}}</text>
+      <sha1>92jrlexwc5oq7k18uxpa6408omwkkpj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Out of the Past (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188308</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117595</id>
+      <timestamp>2018-01-01T18:05:12Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Becky Houser, M.D.</title>
+    <ns>0</ns>
+    <id>56188309</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117612</id>
+      <timestamp>2018-01-01T18:05:23Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The White Sheep of the Family</title>
+    <ns>0</ns>
+    <id>56188310</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117631</id>
+      <timestamp>2018-01-01T18:05:34Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Thrilla Near Vanilla</title>
+    <ns>0</ns>
+    <id>56188311</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117655</id>
+      <timestamp>2018-01-01T18:05:45Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:The Hunted (2015 film)</title>
+    <ns>1</ns>
+    <id>56188312</id>
+    <revision>
+      <id>818117664</id>
+      <timestamp>2018-01-01T18:05:48Z</timestamp>
+      <contributor>
+        <username>Fortdj33</username>
+        <id>9056972</id>
+      </contributor>
+      <comment>Added to wikiproject using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{WikiProject Film}}</text>
+      <sha1>aozj859wbmpq85ke53lxeexe6kqjyjz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Harry Farrell</title>
+    <ns>0</ns>
+    <id>56188313</id>
+    <revision>
+      <id>818118522</id>
+      <parentid>818117673</parentid>
+      <timestamp>2018-01-01T18:12:53Z</timestamp>
+      <contributor>
+        <username>Jesi</username>
+        <id>7705292</id>
+      </contributor>
+      <comment>deletion</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Delete|Was the wrong name. The link from [[Index of World War II articles (H)]] seems to belong to another person. -- [[User:Jesi|Jesi]] ([[User talk:Jesi|talk]]) 18:12, 1 January 2018 (UTC)}}
+
+#REDIRECT [[Henry Farrell (footballer)]]
+
+{{R from move}}</text>
+      <sha1>tqhrfeeaywybi5sim1i7xmcvxpo5ii0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Talk:Harry Farrell</title>
+    <ns>1</ns>
+    <id>56188314</id>
+    <redirect title="Talk:Henry Farrell (footballer)" />
+    <revision>
+      <id>818117677</id>
+      <timestamp>2018-01-01T18:05:54Z</timestamp>
+      <contributor>
+        <username>Jesi</username>
+        <id>7705292</id>
+      </contributor>
+      <comment>Jesi moved page [[Talk:Harry Farrell]] to [[Talk:Henry Farrell (footballer)]]: right name</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[Talk:Henry Farrell (footballer)]]
+
+{{R from move}}</text>
+      <sha1>ljg0cvpdo80bvcoknytuuc9qhzpnkw7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Karambavane</title>
+    <ns>0</ns>
+    <id>56188315</id>
+    <revision>
+      <id>818137911</id>
+      <parentid>818117699</parentid>
+      <timestamp>2018-01-01T20:45:37Z</timestamp>
+      <contributor>
+        <username>Clarkcj12</username>
+        <id>10534893</id>
+      </contributor>
+      <minor />
+      <comment>/* top */clean up, added [[CAT:O|orphan]], stub, [[CAT:UNCATSTUBS|uncategorised]], [[CAT:DE|deadend]] tags, [[WP:AWB/T|typo(s) fixed]]: distric → district using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">{{Multiple issues|
+{{Dead end|date=January 2018}}
+{{Orphan|date=January 2018}}
+}}
+
+'''Karambavane''' is the village in Maharashtra. In Ratnagiri district which is near by Vashishti River.
+
+
+{{geo-stub}}
+{{Uncategorized stub|date=January 2018}}</text>
+      <sha1>lcym4ble28x21wuxr4w9slc874c8xsd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Direct to Video (Roseanne)</title>
+    <ns>0</ns>
+    <id>56188316</id>
+    <redirect title="List of Roseanne episodes" />
+    <revision>
+      <id>818117711</id>
+      <timestamp>2018-01-01T18:06:20Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>#REDIRECT [[List of Roseanne episodes]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve">#REDIRECT [[List of Roseanne episodes]]</text>
+      <sha1>s2v6zrbxvzs4h5oc0s13s02357as09p</sha1>
+    </revision>
+  </page>
+</mediawiki>
