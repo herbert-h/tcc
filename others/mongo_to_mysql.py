@@ -1,8 +1,11 @@
 import pymongo
 import MySQLdb
 import traceback
-from pprint import pprint
+import time
 from operator import itemgetter
+
+start_time = time.time()
+print("inicio" + str(start_time))
 
 mongo_client = pymongo.MongoClient('localhost', 27017)
 mongo_db = mongo_client.wikipedia
@@ -21,7 +24,6 @@ RL_XINSERT = """INSERT INTO revision_equation(rev_id, eq_id, count) VALUES """
 EQ_XINSERT = """INSERT INTO equation(eq_id, equation) VALUES """
 EQ_SELECT = """SELECT eq_id FROM equation WHERE equation = {}"""
 
-
 mysql_conn = MySQLdb.connect(host="localhost",
                             user="root",
                             passwd="root", 
@@ -31,8 +33,14 @@ cur = mysql_conn.cursor()
 
 eq_id_controller = 0
 
+qtd_revs = 0
+
 try:
     for rev in rev_list_sorted:
+        qtd_revs += 1
+        if qtd_revs % 10000 == 0:
+            mid_time = time.time()
+            print(str(qtd_revs/10000)+"/13 "+str(mid_time - start_time))
         qtd_insert_eq = 0
         eq_insert_list = []
         rl_insert_list = []
@@ -67,3 +75,9 @@ try:
 except: traceback.print_exc()
 
 mysql_conn.close()
+
+end_time = time.time()
+print("fim" + str(end_time))
+
+print("tempo gasto")
+print(end_time - start_time)
