@@ -5,7 +5,7 @@ import time
 from operator import itemgetter
 
 start_time = time.time()
-print("inicio" + str(start_time))
+print("inicio " + str(time.localtime()))
 
 mongo_client = pymongo.MongoClient('localhost', 27017)
 mongo_db = mongo_client.wikipedia
@@ -40,7 +40,7 @@ try:
         qtd_revs += 1
         if qtd_revs % 10000 == 0:
             mid_time = time.time()
-            print(str(qtd_revs/10000)+"/13 "+str(mid_time - start_time))
+            print(str(qtd_revs/10000)+"/13 "+str(time.localtime()))
         qtd_insert_eq = 0
         eq_insert_list = []
         rl_insert_list = []
@@ -77,7 +77,7 @@ except: traceback.print_exc()
 mysql_conn.close()
 
 end_time = time.time()
-print("fim" + str(end_time))
+print("fim " + str(time.localtime()))
 
 print("tempo gasto")
 print(end_time - start_time)
