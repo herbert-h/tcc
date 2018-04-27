@@ -7,7 +7,7 @@ from tcc.items.wikipedia import WikipediaBaseItem
 
 class WikipediaSpider(Spider):
 
-    PATH = '/home/herbert/tcc/tcc'
+    PATH = '/home/herbert/tcc/crawler/tcc'
     INPUT_FILE = 'input_pages.csv'
     filePath = os.path.join(PATH, INPUT_FILE)
     ENCODING = 'utf-8'
@@ -18,11 +18,9 @@ class WikipediaSpider(Spider):
         super(WikipediaSpider, self).__init__()
 
         self.host = 'https://en.wikipedia.org/w/api.php'
-        #my cool project useragent
-        user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
-        user_agent += '(KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'
 
-        # self.pages = self.load_pages()
+        user_agent = 'Academic Matematical Research/2.0 (https://www.unifal-mg.edu.br) '
+        user_agent += 'Using Scrapy(bot) to recover history of pages with equation'
 
         self.default_headers = {
             'User-Agent' : user_agent
@@ -30,9 +28,7 @@ class WikipediaSpider(Spider):
 
     def start_requests(self):
         df = pd.read_csv(self.filePath, header=0)
-        # df = {'page_ids': [41641]}
         for page_id in df['page_ids']:
-            print(page_id)
             endpoint = '&'.join([
                 'action=query',
                 'formatversion=2',
@@ -53,10 +49,10 @@ class WikipediaSpider(Spider):
 
     def parse(self, response):
         rev_list = response.meta['rev_list']
-        j = json.loads(response.text)
+        page_json = json.loads(response.text)
 
-        if 'query' in j:
-            j = j['query']
+        if 'query' in page_json:
+            j = page_json['query']
             if 'pages' in j:
                 j = j['pages']
                 for page in j:
@@ -76,8 +72,8 @@ class WikipediaSpider(Spider):
                                     )
                                 rev_list.append(item)
 
-        if 'continue' in j:
-            rvcontinue = j['continue']['rvcontinue']
+        if 'continue' in page_json:
+            rvcontinue = page_json['continue']['rvcontinue']
             url = response.url + '&rvcontinue={}'.format(rvcontinue)
             yield Request(
                 url,
@@ -85,11 +81,10 @@ class WikipediaSpider(Spider):
                 headers=self.default_headers,
                 callback=self.parse
             )
-
         elif rev_list:
             ready_items = []
             ready_items.append(rev_list.pop())
-            while(rev_list):
+            while rev_list:
                 rev = rev_list.pop()
                 last = ready_items[-1]
                 if set(last['formulas']) == set(rev['formulas']):

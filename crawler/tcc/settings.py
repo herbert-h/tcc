@@ -49,7 +49,7 @@ DOWNLOAD_HANDLERS = {
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     # 'tcc.pipelines.PipelineCSV': 300,
-    'tcc.pipelines.PipelineMongoDB': 200,
+    # 'tcc.pipelines.PipelineMongoDB': 200,
     # 'tcc.pipelines.PipelineSQL': 200
 }
 
