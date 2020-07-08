@@ -7,7 +7,7 @@ from tcc.items.wikipedia import WikipediaBaseItem
 
 class WikipediaSpider(Spider):
 
-    PATH = '/home/herbert/tcc/crawler/tcc'
+    PATH = '/home/herbert/MyProjects/tcc/crawler/tcc'
     INPUT_FILE = 'input_pages.csv'
     filePath = os.path.join(PATH, INPUT_FILE)
     ENCODING = 'utf-8'
@@ -19,7 +19,7 @@ class WikipediaSpider(Spider):
 
         self.host = 'https://en.wikipedia.org/w/api.php'
 
-        user_agent = 'Academic Matematical Research/2.0 (https://www.unifal-mg.edu.br) '
+        user_agent = 'Academic Mathematical Research/2.0 (https://www.unifal-mg.edu.br) '
         user_agent += 'Using Scrapy(bot) to recover history of pages with equation'
 
         self.default_headers = {

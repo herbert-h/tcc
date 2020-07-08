@@ -24,10 +24,10 @@ LOG_FORMAT = '%(asctime)s [%(name)s] %(levelname)s: %(message)s'
 ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 16
+CONCURRENT_REQUESTS = 12
 
 # The download delay setting will honor only one of:
-CONCURRENT_REQUESTS_PER_DOMAIN = 16
+CONCURRENT_REQUESTS_PER_DOMAIN = 12
 CONCURRENT_REQUESTS_PER_IP = 0
 
 # Disable Telnet Console (enabled by default)
@@ -49,7 +49,7 @@ DOWNLOAD_HANDLERS = {
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     # 'tcc.pipelines.PipelineCSV': 300,
-    # 'tcc.pipelines.PipelineMongoDB': 200,
+    'tcc.pipelines.PipelineMongoDB': 200,
     # 'tcc.pipelines.PipelineSQL': 200
 }
 

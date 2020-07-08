@@ -3,7 +3,6 @@ import logging
 import warnings
 from abc import abstractstaticmethod
 
-import MySQLdb
 from scrapy import Item
 
 
