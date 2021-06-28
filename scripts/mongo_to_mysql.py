@@ -2,11 +2,14 @@ import pymongo
 import MySQLdb
 import traceback
 import time
+import logging
 from functools import lru_cache
 from operator import itemgetter
 
+logging.basicConfig(level = logging.INFO, format = '%(asctime)s  %(levelname)-10s %(processName)s  %(name)s %(message)s', datefmt =  "%Y-%m-%d-%H-%M-%S")
+
 start_time = time.time()
-print("inicio " + str(time.localtime()))
+logging.info("inicio " + str(time.asctime()))
 
 REV_INSERT = """INSERT INTO revision VALUES (%s,%s,%s)"""
 RL_XINSERT = """INSERT INTO revision_equation(rev_id, eq_id, count) VALUES """
@@ -22,7 +25,7 @@ cur = mysql_conn.cursor()
 
 def get_mongo_sorted_revs():
     mongo_client = pymongo.MongoClient('localhost', 27017)
-    mongo_db = mongo_client.wiki
+    mongo_db = mongo_client.wikipedia
     mongo_db_revs = mongo_db.revs 
     seen = {}
     rev_list = []
@@ -48,11 +51,12 @@ def get_formula_id(eq):
 def process(sorted_revs = []):
     global last_eq_id
     qtd_revs = 0
-    try:
-        for rev in sorted_revs:
+    for rev in sorted_revs:
+        try:
             qtd_revs += 1
             if qtd_revs % 10000 == 0:
-                print(str(qtd_revs)+"/"+str(len(sorted_revs))+" "+ str(time.localtime()))
+                logging.info(str(qtd_revs)+"/"+str(len(sorted_revs))+" "+ str(time.asctime()))
+                logging.info("actual rev date " + str(rev['date']))
 
             qtd_insert_eq = 0
             eq_insert_list = []
@@ -80,16 +84,14 @@ def process(sorted_revs = []):
                 cur.execute(rl_query, rl_insert_list)
 
             mysql_conn.commit()
-
-    except: traceback.print_exc()
+        except:
+            logging.error("error in page_id="+str(rev['page_id'])+ " rev_id=" +str(rev['rev_id']))
 
     mysql_conn.close()
 
     end_time = time.time()
-    print("fim " + str(time.localtime()))
-
-    print("tempo gasto")
-    print(end_time - start_time)
+    logging.info("fim " + str(time.asctime()))
+    logging.info("tempo gasto " + str(end_time - start_time))
 
 def main():
     sorted_revs_list = get_mongo_sorted_revs()

@@ -7,7 +7,7 @@ from tcc.items.wikipedia import WikipediaBaseItem
 
 class WikipediaSpider(Spider):
 
-    PATH = '/home/herbert/MyProjects/tcc/crawler/tcc'
+    PATH = '/Users/herbert.habermann/MyProjects/tcc/crawler/tcc'
     INPUT_FILE = 'input_pages.csv'
     filePath = os.path.join(PATH, INPUT_FILE)
     ENCODING = 'utf-8'
@@ -74,7 +74,8 @@ class WikipediaSpider(Spider):
 
         if 'continue' in page_json:
             rvcontinue = page_json['continue']['rvcontinue']
-            url = response.url + '&rvcontinue={}'.format(rvcontinue)
+            cut_url = response.url.split('&rvcontinue')[0]
+            url = cut_url + '&rvcontinue={}'.format(rvcontinue)
             yield Request(
                 url,
                 meta={'rev_list':rev_list},
